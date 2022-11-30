@@ -29,17 +29,11 @@ My main features are productivity and fast learning and this allows me to manage
 <a href="https://www.instagram.com/https://www.instagram.com/lucasramayanaa/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ramawga&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ramawga&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramawga&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=Ramawga">
-</p>
-
-## 📊 Github Status
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=Ramawga&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramawga&layout=compact"><p>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
