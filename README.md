@@ -10,7 +10,7 @@ My main features are productivity and fast learning and this allows me to manage
 <p>🌱 I'm currently learning ReactJS.</p>
 <p>💬 Ask me about Front-end Development.</p>
 <p>📫 How to reach me? lucascavalcante023@gmail.com.</p>
-<p>I regularly write articles on <a href="https://ramawga.github.io/portfolio/">my portfolio.</a></p>
+<p>All of my projects are available at <a href="https://ramawga.github.io/portfolio/">my portfolio.</a></p>
 
 ## 💻 Skills
 <p>
