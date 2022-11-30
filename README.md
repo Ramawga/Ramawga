@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Lucas Ramayana
 
-<img width="100%" src="[https://i.pinimg.com/originals/e4/6e/9d/e46e9de89cecb6f2b141ab7f9821fd52.jpg](https://thumbs.files.fm/thumb_show.php?i=5trwpwkxm&view)" alt="my banner">
+<img width="100%" src="https://thumbs.files.fm/thumb_show.php?i=5trwpwkxm&view" alt="my banner">
 
 I am determined to do my best to do an excellent job as a Front-end Developer.
 
